@@ -3,6 +3,7 @@
 
 ![Screenshot 2024-02-29 185620](https://github.com/AmeyRathod05/OrganizeIt/assets/127238907/ee6333f5-e0c8-4002-88e0-d21a0c3a50b9)
 
+Developed a task tracker application UI using React.js to manage personal or professional to-do lists. User can Add, Delete tasks and Set Reminder (Double Click) on tasks.
 
 # Getting Started with Create React App!
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
