@@ -1,5 +1,5 @@
 
-[Screenshot 2024-02-29 185515](https://github.com/AmeyRathod05/OrganizeIt/assets/127238907/c79405df-f025-463b-a887-bf5c38e72cb5)
+![Screenshot 2024-02-29 185515](https://github.com/AmeyRathod05/OrganizeIt/assets/127238907/c79405df-f025-463b-a887-bf5c38e72cb5)
 
 ![Screenshot 2024-02-29 185620](https://github.com/AmeyRathod05/OrganizeIt/assets/127238907/ee6333f5-e0c8-4002-88e0-d21a0c3a50b9)
 
